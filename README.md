@@ -1,6 +1,19 @@
+<div align="center">
+
 # 🖼️ Image Panorama Stitcher
 
-**Modular, High-Performance Computer Vision Pipeline** — Automatically aligns, warps, and stitches overlapping images into seamless wide-angle panoramas without visible seam lines or dark vignetting artifacts.
+### Modular, High-Performance Computer Vision Pipeline
+
+*Automatically aligns, warps, and stitches overlapping images into seamless wide-angle panoramas — without visible seam lines or dark vignetting artifacts.*
+
+![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?style=flat&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-cv2-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![Feature%20Matching](https://img.shields.io/badge/Matching-SIFT%20%2B%20FLANN-00BFFF?style=flat)
+![Homography](https://img.shields.io/badge/Geometry-RANSAC-F97316?style=flat)
+![License](https://img.shields.io/badge/License-MIT-4C1?style=flat)
+![Status](https://img.shields.io/badge/Status-Active-4C1?style=flat)
+
+</div>
 
 ---
 
