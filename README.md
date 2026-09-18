@@ -76,6 +76,11 @@ Pass your own image paths to generate a panorama:
 ```bash
 python main.py --left dataset/left.jpg --right dataset/right.jpg
 ```
+Tips for best results:
+
+Use two photos with 20–40% horizontal overlap — too little overlap means too few matching keypoints; too much wastes canvas space.
+Keep the camera roughly level and avoid large parallax (e.g., don't move sideways much between shots — pivot from roughly the same point instead).
+Well-lit, texture-rich scenes (buildings, landscapes, textured walls) produce far more reliable keypoints than flat, low-texture surfaces (plain skies, blank walls).
 
 ---
 
