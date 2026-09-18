@@ -88,7 +88,6 @@ image-panorama-stitcher/
 │   ├── 📄 features.py          # SIFTFeatureMatcher (Keypoints & FLANN matching)
 │   ├── 📄 homography.py        # RANSACHomographySolver (Matrix estimation)
 │   └── 📄 stitcher.py          # PanoramaBlender (Feather blending engine)
-├── 📁 outputs/                 # Directory where output panoramas are saved
 ├── 📄 main.py                  # CLI Driver Execution script
 ├── 📄 requirements.txt         # Project dependencies
 └── 📄 README.md                # Project documentation
